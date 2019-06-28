@@ -3,8 +3,9 @@ A Simple Smart Watch in C using graphics.
 
 ---
 - ## How to operate:
-    1. Use keys 'a', 's', 'w', 'd' to navigate.
-    2. Use Esc Key to terminate.
+    1. Run Pro.c file, make sure all three files are present in same directory.
+    2. Use keys 'a', 's', 'w', 'd' to navigate.
+    3. Use Esc Key to terminate.
     
 >Change BGI folder path accordingly.
 
